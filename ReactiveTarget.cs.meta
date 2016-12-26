@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 234c9dbaf0ed3c342ad0e67cebec2e9a
+timeCreated: 1479090790
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {fileID: 1000012029321612, guid: 72c5d29294fceb542baf3f75f6172a21, type: 2}
+  - potionPrefab: {fileID: 1000010324716844, guid: 4ad00d5da29d53046a2f0394426c1465,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

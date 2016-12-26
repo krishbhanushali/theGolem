@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7342e9a4ecd2768468cc72e88de36241
+timeCreated: 1479094383
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerObj: {fileID: 4000013453571392, guid: 80a6821e6abb3554e80e03e988284ae1,
+      type: 2}
+  - Bullet: {fileID: 163286, guid: 50daa816369323b42b56093bb108296f, type: 2}
+  - SpawnPoint: {fileID: 4000010516400780, guid: 72c5d29294fceb542baf3f75f6172a21,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
